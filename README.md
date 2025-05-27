@@ -24,7 +24,7 @@ To explore and understand the Titanic dataset using visualizations and summary s
 
 ## ✅ Files
 - Titanic-Dataset.csv
-- Task_01.ipynb
+- Task_02.ipynb
 - README.md
 
 
